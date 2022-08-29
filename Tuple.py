@@ -1,0 +1,8 @@
+tuple = ('a', 'b', 4, 4.5)
+tuple1 = ('n', 'b')
+print(tuple)
+print(tuple[0])
+print(tuple[1:3])
+print(tuple[2:1])
+print(tuple*2)
+print(tuple+tuple1)
